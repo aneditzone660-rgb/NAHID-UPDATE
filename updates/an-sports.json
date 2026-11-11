@@ -1,7 +1,8 @@
+
 {
   "enabled": true,
   "appId": "com.ansportslive.tv",
-  ""versionCode: 2451,
+  "versionCode": 2451,
   "versionName": "24.5.1",
   "minimumVersion": 2450,
   "forceUpdate": true,
