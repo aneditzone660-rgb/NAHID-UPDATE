@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "appId": "com.ansportslive.tv",
+  "versionCode": 25,
+  "versionName": "24.5.1",
+  "minimumVersion": 24,
+  "forceUpdate": true,
+  "downloadUrl": "https://t.me/officialABMods",
+  "changelog": "1. Bug fixes\n2. Performance improved\n3. New features added"
+}
